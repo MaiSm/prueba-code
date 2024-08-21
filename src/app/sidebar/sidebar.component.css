@@ -1,0 +1,6 @@
+aside {
+    background-color: rgb(150, 150, 255);
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height));
+    position: fixed;
+}
